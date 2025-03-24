@@ -1,0 +1,16 @@
+﻿<Window x:Class="Kursovaya_Duolingo_.TrainingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya_Duolingo_"
+        mc:Ignorable="d"
+        Title="Тренировка" Height="316" Width="224">
+    <Grid>
+        <Label x:Name="TrainingWordLabel" FontSize="12" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,18,0,0" VerticalAlignment="Top" Height="34" Width="196"/>
+        <Button x:Name="Answer1Button" Click="CheckTrainingAnswer_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,202,0,0" Height="38" Width="124"/>
+        <Button x:Name="Answer2Button" Click="CheckTrainingAnswer_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,157,0,0" Height="40" Width="124"/>
+        <Button x:Name="Answer3Button" Click="CheckTrainingAnswer_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,112,0,0" Height="40" Width="124"/>
+        <Button x:Name="Answer4Button" Click="CheckTrainingAnswer_Click" HorizontalAlignment="Center" VerticalAlignment="Top"  Margin="0,67,0,0" Height="40" Width="124"/>
+    </Grid>
+</Window>

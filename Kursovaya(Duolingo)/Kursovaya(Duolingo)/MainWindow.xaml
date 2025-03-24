@@ -1,0 +1,35 @@
+﻿<Window x:Class="Kursovaya_Duolingo_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya_Duolingo_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700">
+    <Grid>
+        <ComboBox x:Name="CategoryComboBox" HorizontalAlignment="Left" Margin="34,67,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" SelectionChanged="CategoryComboBox_SelectionChanged_1">
+            <ComboBoxItem Content="Животные"/>
+            <ComboBoxItem Content="Еда"/>
+            <ComboBoxItem Content="Транспорт"/>
+            <ComboBoxItem Content="Цвета"/>
+        </ComboBox>
+        <Button x:Name="AddButton" Content="Добавить слово" Command="{Binding AddWordCommand}" Margin="513,139,56,0" VerticalAlignment="Top" Click="AddButton_Click" Height="58" />
+        <Label x:Name="CorrectAnswersLabel" Content="Правильных ответов: 0" Margin="497,299,40,0" VerticalAlignment="Top" Height="32" />
+        <Label x:Name="TotalAnswersLabel" Content="Всего ответов: 0" Margin="497,336,40,0" VerticalAlignment="Top" Height="32" />
+        <Button x:Name="LoadButton" Content="Загрузить слова" HorizontalAlignment="Left" Margin="294,195,0,0" VerticalAlignment="Top" Height="49" Width="176" Click="LoadButton_Click"/>
+        <Button x:Name="StartTrainingButton" Content="Начать тренировку" HorizontalAlignment="Left" Margin="294,290,0,0" VerticalAlignment="Top" Height="64" Width="176" Click="StartTrainingButton_Click"/>
+
+        <Button x:Name="ResetWordsButton" Content="Очистить слова" HorizontalAlignment="Left" Margin="294,102,0,0" VerticalAlignment="Top" Height="27" Width="176" Click="ResetWordsButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="32,40,0,0" TextWrapping="Wrap" Text="Количество слов:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="139,40,0,0" TextWrapping="Wrap" Text="{Binding WordCount}" VerticalAlignment="Top"/>
+        <ListView x:Name="WordsListView" ItemsSource="{Binding FilteredWords}" Margin="34,102,424,59" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Слово" DisplayMemberBinding="{Binding ForeignWord}" Width="90"/>
+                    <GridViewColumn Header="Перевод" DisplayMemberBinding="{Binding Translation}" Width="120"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="SaveButton" Content="Сохранить слова" HorizontalAlignment="Left" Margin="294,139,0,0" VerticalAlignment="Top" Height="45" Width="176" Click="SaveButton_Click"/>
+    </Grid>
+</Window>

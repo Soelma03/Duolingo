@@ -1,0 +1,44 @@
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).exe.config
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).exe
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).pdb
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.AssemblyReference.cache
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\AddWordDialog.g.cs
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\MainWindow.g.cs
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\App.g.cs
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo)_MarkupCompile.cache
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo)_MarkupCompile.lref
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\AddWordDialog.baml
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\MainWindow.baml
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).g.resources
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya_Duolingo_.Properties.Resources.resources
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.GenerateResource.cache
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.CoreCompileInputs.cache
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovay.7ACF44C6.Up2Date
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).exe
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).pdb
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\TrainingWindow.g.cs
+C:\Users\ermos\source\repos\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\TrainingWindow.baml
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).exe.config
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).exe
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Kursovaya(Duolingo).pdb
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\AddWordDialog.g.cs
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\MainWindow.g.cs
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\TrainingWindow.g.cs
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\App.g.cs
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo)_MarkupCompile.cache
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo)_MarkupCompile.lref
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\AddWordDialog.baml
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\MainWindow.baml
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\TrainingWindow.baml
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).g.resources
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya_Duolingo_.Properties.Resources.resources
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.GenerateResource.cache
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).csproj.CopyComplete
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).exe
+C:\Users\user1\OneDrive\Рабочий стол\Kursovaya(Duolingo)\Kursovaya(Duolingo)\obj\Debug\Kursovaya(Duolingo).pdb
